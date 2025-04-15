@@ -59,14 +59,13 @@ plugins:
 author:
   name   : "Charl Botha"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ex-software dev on a journey into AI Safety. Driven by curiosity & building the future
-Builder • Explorer • Writer"
+  bio    : "Ex-software dev on a journey into AI Safety. Driven by curiosity & building the future."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://charlbotha.carrd.co/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "X"
+      icon: "fab fa-fw fa-square-x-twitter"
       url: "https://x.com/seaCyberCharl"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -74,11 +73,10 @@ Builder • Explorer • Writer"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/botha-charl/"
-
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "X"
+      icon: "fab fa-fw fa-square-x-twitter"
       url: "https://x.com/seaCyberCharl"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
