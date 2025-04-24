@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Charl Botha"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Ex-software dev on a journey into AI Safety. Driven by curiosity & building the future."
   links:
     - label: "Website"
