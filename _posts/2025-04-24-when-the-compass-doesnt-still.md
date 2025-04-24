@@ -8,13 +8,14 @@ categories:
 tags:
   - career
   - reflection
-last_modified_at: 2025-04-24 14:30:00 +0200 
+last_modified_at: 2025-04-24 17:30:00 +0200 
 excerpt_separator: "<!--more-->"
 
 # MINIMAL MISTAKES THEME-SPECIFIC OPTIONS (ADJUST AS NEEDED)
 
 header: # Optional: Add a header image or color overlay
   image: /assets/images/compass-spinning.png # Path to an image in your assets folder
+  og_image: /assets/images/compass-spinning.png
   # overlay_image: /assets/images/compass-spinning.jpg # Use this instead of 'image:' for an overlay effect
   # overlay_filter: 0.5 # Adjust opacity (0.0 to 1.0). 0.5 is common.
   caption: "Compass spinning on an old map" # Optional caption for the header image
@@ -73,7 +74,7 @@ The journey continues, an ongoing experiment guided by that internal North Star 
 
 ## References
 
-- Robinson, O. (2013). The holistic phase model of early adult crisis. *Journal of Adult Development*. [https://www.academia.edu/3633328/The_holistic_phase_model_of_early_adult_crisis](https://www.academia.edu/3633328/The_holistic_phase_model_of_early_adult_crisis)
+- Robinson, O. (2013). The holistic phase model of early adult crisis. *Journal of Adult Development*. [https://www.academia.edu/3633328](https://www.academia.edu/3633328/The_holistic_phase_model_of_early_adult_crisis)
 - Brown, B. (2017). *Braving the wilderness: The quest for true belonging and the courage to stand alone* (First edition). Random House.
 
 [^1]: Even though I was fortunate enough to land in a role with supportive mentors and valuable learning opportunities – aspects for which I remain grateful – a deeper sense of misalignment persisted.
