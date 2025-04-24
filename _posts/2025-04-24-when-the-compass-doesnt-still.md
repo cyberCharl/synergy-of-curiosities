@@ -1,7 +1,6 @@
 ---
 title: "When the Compass Doesn't Still: Finding Direction In The Modern World"
-date: 2025-04-35 14:00:00 +0200 # Format: YYYY-MM-DD HH:MM:SS +/-ZZZZ
-layout: single # Standard layout for single posts in Minimal Mistakes
+date: 2025-04-24 14:30:00 +0200 # Format: YYYY-MM-DD HH:MM:SS +/-ZZZZ
 
 author: "Charl Botha"
 categories:
@@ -9,9 +8,8 @@ categories:
 tags:
   - career
   - reflection
-last_modified_at: 2025-04-35 14:00:00 +0200 # Optional: Update if you edit the post later. Same format as date.
-# excerpt: "Feeling lost with too many interests? A personal journey through the 'quarter-life crisis,' letting go of outdated maps, and learning to navigate by an inner compass." # A brief, compelling summary for list pages/SEO. Alternatively, use excerpt_separator.
-excerpt_separator: "<!--more-->" # If you prefer, place this tag in your post body after the first paragraph or two. The content before it becomes the excerpt. Use EITHER excerpt: OR excerpt_separator:.
+last_modified_at: 2025-04-24 14:30:00 +0200 
+excerpt_separator: "<!--more-->"
 
 # MINIMAL MISTAKES THEME-SPECIFIC OPTIONS (ADJUST AS NEEDED)
 
