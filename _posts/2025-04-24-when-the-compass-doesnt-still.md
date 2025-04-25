@@ -8,7 +8,7 @@ categories:
 tags:
   - career
   - reflection
-last_modified_at: 2025-04-24 17:30:00 +0200 
+last_modified_at: 2025-04-25 9:45:00 +0200 
 excerpt_separator: "<!--more-->"
 
 # MINIMAL MISTAKES THEME-SPECIFIC OPTIONS (ADJUST AS NEEDED)
@@ -71,6 +71,8 @@ The journey continues, an ongoing experiment guided by that internal North Star 
 > – Joseph Campbell (as cited in Brown, 2017)
 
 ---
+
+Special thanks to Boyd Kane, Tegan Green, Leo Hyams, Rebecca Hofmeyr, Paul Hoft von Hoesslin, and the AI Safety Cape Town writing group chat for reviewing drafts of this post and encouraging me to start my writing journey.
 
 ## References
 
